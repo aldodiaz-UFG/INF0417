@@ -1,2 +1,1 @@
-# INF0417
-INF0417 - Computer Vision
+# INF0417 - Computer Vision
