@@ -17,5 +17,5 @@
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
 
 ## Software
-[DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+[DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
