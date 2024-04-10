@@ -9,9 +9,9 @@
 ## Eventos
 [Edge AI Vision](https://www.edge-ai-vision.com/)
 
-[CV4Animals Workshop](https://www.cv4animals.com/)
+[CVPR2024 - Computer Vision and Pattern Recognition Conference](https://cvpr.thecvf.com/Conferences/2024/CallForPapers)
 
-[CVPR2024](https://cvpr.thecvf.com/Conferences/2024/CallForPapers)
+[CV4Animals Workshop](https://www.cv4animals.com/)
 
 ## Revistas
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
