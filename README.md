@@ -15,3 +15,7 @@
 
 ## Revistas
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
+
+## Software
+[DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+
