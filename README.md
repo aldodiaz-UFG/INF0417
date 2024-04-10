@@ -19,3 +19,5 @@
 ## Software
 [DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
+## Aplicações
+[vision.ai](https://viso.ai/)
