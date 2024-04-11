@@ -21,5 +21,7 @@
 
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
+[MediaPipe](https://github.com/google/mediapipe?tab=readme-ov-file)
+
 ## Aplicações
 [vision.ai](https://viso.ai/)
