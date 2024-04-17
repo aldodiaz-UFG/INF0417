@@ -1,5 +1,8 @@
 # INF0417 - Computer Vision
 
+## Cursos
+[Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
+
 ## Editais
 
 [Edital SAAB / CISB](https://cisb.org.br/calls/call-of-innovation-projects-cisb-12-2024-support-for-international-collaboration/)
