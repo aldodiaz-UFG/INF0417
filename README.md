@@ -31,3 +31,6 @@
 
 ## Aplicações
 [vision.ai](https://viso.ai/)
+
+## Videos
+[Tips on Landing a Job in Artificial Intelligence](https://www.youtube.com/watch?v=BPN8UQb32co)
