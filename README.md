@@ -1,8 +1,10 @@
 # INF0417 - Computer Vision
 
 ## Seminário
-[Atividade01 - Panorama geral](https://docs.google.com/presentation/d/1jvwhnva5YatgqHC6rv-Y3q-LWF2_g_zDt72rBiheZ78/edit#slide=id.p)
+
 [Atividade02 - Brainstorming](https://docs.google.com/presentation/d/1P1b2K8LoPWNTbVJtfFRMl_zJemgKWDB5MN_LnRglpBs/edit?usp=sharing)
+
+[Atividade01 - Panorama geral](https://docs.google.com/presentation/d/1jvwhnva5YatgqHC6rv-Y3q-LWF2_g_zDt72rBiheZ78/edit#slide=id.p)
 
 ## Datasets
 [Datasets](https://drive.google.com/drive/folders/1DjDC8fV8A5EsqGOqRWjkbG9nNaXrSJsn?usp=sharing)
