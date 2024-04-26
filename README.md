@@ -29,6 +29,8 @@
 [CV4Animals Workshop](https://www.cv4animals.com/)
 
 ## Revistas
+
+[NEW! OpenCV News](https://opencv.org/news/)
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
 
 ## Software
