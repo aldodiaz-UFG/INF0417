@@ -8,6 +8,8 @@
 
 ## Editais
 
+[Desafio Nacional de IA - Etapa Visão Computacional](https://desafionacionaldeia.com.br/)
+
 [Edital SAAB / CISB](https://cisb.org.br/calls/call-of-innovation-projects-cisb-12-2024-support-for-international-collaboration/)
 
 [Edital Desafio Agrostartup 2024](https://sistemafaeg.com.br/storage/arquivos/Edital-Desafio-Agro-Startup-2024-Assinado.pdf)
