@@ -31,6 +31,7 @@
 ## Revistas
 
 [NEW! OpenCV News](https://opencv.org/news/)
+
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
 
 ## Software
