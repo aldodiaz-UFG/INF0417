@@ -7,14 +7,18 @@
 [Atividade01 - Panorama geral](https://docs.google.com/presentation/d/1jvwhnva5YatgqHC6rv-Y3q-LWF2_g_zDt72rBiheZ78/edit#slide=id.p)
 
 ## Datasets
+
 [Datasets](https://drive.google.com/drive/folders/1DjDC8fV8A5EsqGOqRWjkbG9nNaXrSJsn?usp=sharing)
 
 ## Cursos
+
+[OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
+
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
 ## Editais
 
-[NEW! Desafio Nacional de IA - Etapa Visão Computacional](https://desafionacionaldeia.com.br/)
+[Desafio Nacional de IA - Etapa Visão Computacional](https://desafionacionaldeia.com.br/)
 
 [Edital SAAB / CISB](https://cisb.org.br/calls/call-of-innovation-projects-cisb-12-2024-support-for-international-collaboration/)
 
@@ -22,11 +26,11 @@
 
 ## Eventos
 
-[NEW! ICASSP - International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/sp-grand-challenges/)
+[ICASSP - International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/sp-grand-challenges/)
 
-[NEW! Five finalists for the Vision Tank Start-Up Competition!](https://embeddedvisionsummit.com/vision-tank?utm_campaign=Latest%20Updates&utm_medium=email&_hsenc=p2ANqtz-_aakW4KzkCRFciGSMl5WTAwYfYVbnF4VR9EO_CUK_pVhq1TpL3VkZga1t2R3HU_2wvQnCqFFX5I1PLdmGI26CrKHKGPg&_hsmi=304031938&utm_content=304033170&utm_source=hs_email)
+[Five finalists for the Vision Tank Start-Up Competition!](https://embeddedvisionsummit.com/vision-tank?utm_campaign=Latest%20Updates&utm_medium=email&_hsenc=p2ANqtz-_aakW4KzkCRFciGSMl5WTAwYfYVbnF4VR9EO_CUK_pVhq1TpL3VkZga1t2R3HU_2wvQnCqFFX5I1PLdmGI26CrKHKGPg&_hsmi=304031938&utm_content=304033170&utm_source=hs_email)
 
-[NEW! ICIP2024 - International Conference on Image Processing](https://2024.ieeeicip.org/challenges/)
+[ICIP2024 - International Conference on Image Processing](https://2024.ieeeicip.org/challenges/)
 
 [Edge AI Vision](https://www.edge-ai-vision.com/)
 
@@ -36,7 +40,7 @@
 
 ## Revistas
 
-[NEW! OpenCV News](https://opencv.org/news/)
+[OpenCV News](https://opencv.org/news/)
 
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
 
