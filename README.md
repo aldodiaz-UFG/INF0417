@@ -52,6 +52,9 @@
 [MediaPipe](https://github.com/google/mediapipe?tab=readme-ov-file)
 
 ## Aplicações
+
+[NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
+
 [vision.ai](https://viso.ai/)
 
 ## Videos
