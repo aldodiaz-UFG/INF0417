@@ -12,7 +12,7 @@
 
 ## Cursos
 
-[OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
+[NEW! - OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
