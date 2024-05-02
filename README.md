@@ -55,6 +55,8 @@
 
 [NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
 
+[NEW! - Pix4D](https://www.pix4d.com/pt/)
+
 [vision.ai](https://viso.ai/)
 
 ## Videos
