@@ -57,6 +57,8 @@
 
 [NEW! - Pix4D](https://www.pix4d.com/pt/)
 
+[NEW! - Intuitivo](https://www.intuitivo.com/technology)
+
 [vision.ai](https://viso.ai/)
 
 ## Videos
