@@ -45,6 +45,12 @@
 [RSIP Vision - Visual Intelligence for MedTech](https://www.rsipvision.com/)
 
 ## Software
+[NEW! - DeepSort](https://deci.ai/blog/object-tracking-with-deepsort-and-yolo-nas-practitioners-guide/#:~:text=Deep%20SORT%20is%20a%20state,in%20crowded%20and%20complex%20environments.)
+
+[NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
+
+[NEW! - DeepFace](https://github.com/serengil/deepface)
+
 [DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -52,8 +58,6 @@
 [MediaPipe](https://github.com/google/mediapipe?tab=readme-ov-file)
 
 ## Aplicações
-
-[NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
 
 [NEW! - Pix4D](https://www.pix4d.com/pt/)
 
