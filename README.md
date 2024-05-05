@@ -46,13 +46,15 @@
 
 ## Software
 
-[Ultralytics YOLO](https://www.ultralytics.com/yolo)
+[NEW! - Ultralytics YOLO](https://www.ultralytics.com/yolo)
 
 [NEW! - DeepSort](https://deci.ai/blog/object-tracking-with-deepsort-and-yolo-nas-practitioners-guide/#:~:text=Deep%20SORT%20is%20a%20state,in%20crowded%20and%20complex%20environments.)
 
 [NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
 
 [NEW! - DeepFace](https://github.com/serengil/deepface)
+
+[NEW! - OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
 [DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
