@@ -56,6 +56,8 @@
 
 [NEW! - OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
+[NEW! - dLib](https://github.com/davisking/dlib)
+
 [DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
 [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
