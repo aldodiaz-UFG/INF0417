@@ -12,6 +12,8 @@
 
 ## Cursos
 
+[NEW - IA aplicada a Visão Computacional](https://infoeducacao.com.br/curso-gratuito-de-inteligencia-artificial-aplicada-a-visao-computacional-abre-vagas/)
+
 [NEW! - OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
