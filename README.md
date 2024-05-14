@@ -68,6 +68,8 @@
 
 ## Aplicações
 
+[NEW! - Luxonis](https://docs.luxonis.com/en/latest/)
+
 [NEW! - Amazon Rekognition](https://aws.amazon.com/rekognition/)
 
 [NEW! - Pix4D](https://www.pix4d.com/pt/)
