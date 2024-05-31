@@ -12,9 +12,9 @@
 
 ## Cursos
 
-[NEW - IA aplicada a Visão Computacional](https://infoeducacao.com.br/curso-gratuito-de-inteligencia-artificial-aplicada-a-visao-computacional-abre-vagas/)
+[IA aplicada a Visão Computacional](https://infoeducacao.com.br/curso-gratuito-de-inteligencia-artificial-aplicada-a-visao-computacional-abre-vagas/)
 
-[NEW! - OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
+[OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/)
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
@@ -48,17 +48,17 @@
 
 ## Software
 
-[NEW! - Ultralytics YOLO](https://www.ultralytics.com/yolo)
+[Ultralytics YOLO](https://www.ultralytics.com/yolo)
 
-[NEW! - DeepSort](https://deci.ai/blog/object-tracking-with-deepsort-and-yolo-nas-practitioners-guide/#:~:text=Deep%20SORT%20is%20a%20state,in%20crowded%20and%20complex%20environments.)
+[DeepSort](https://deci.ai/blog/object-tracking-with-deepsort-and-yolo-nas-practitioners-guide/#:~:text=Deep%20SORT%20is%20a%20state,in%20crowded%20and%20complex%20environments.)
 
-[NEW! - Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
+[Papers With Code - Computer Vision](https://paperswithcode.com/area/computer-vision)
 
-[NEW! - DeepFace](https://github.com/serengil/deepface)
+[DeepFace](https://github.com/serengil/deepface)
 
-[NEW! - OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
 
-[NEW! - dLib](https://github.com/davisking/dlib)
+[dLib](https://github.com/davisking/dlib)
 
 [DeepLabCut - Markerless Pose Estimation in Animals](https://github.com/DeepLabCut/DeepLabCut)
 
@@ -67,14 +67,15 @@
 [MediaPipe](https://github.com/google/mediapipe?tab=readme-ov-file)
 
 ## Aplicações
+[DeepDataSpace](https://deepdataspace.com/products/cloudapi)
 
-[NEW! - Luxonis](https://docs.luxonis.com/en/latest/)
+[Luxonis](https://docs.luxonis.com/en/latest/)
 
-[NEW! - Amazon Rekognition](https://aws.amazon.com/rekognition/)
+[Amazon Rekognition](https://aws.amazon.com/rekognition/)
 
-[NEW! - Pix4D](https://www.pix4d.com/pt/)
+[Pix4D](https://www.pix4d.com/pt/)
 
-[NEW! - Intuitivo](https://www.intuitivo.com/technology)
+[Intuitivo](https://www.intuitivo.com/technology)
 
 [vision.ai](https://viso.ai/)
 
