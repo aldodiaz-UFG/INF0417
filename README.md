@@ -10,6 +10,10 @@
 
 [Datasets](https://drive.google.com/drive/folders/1DjDC8fV8A5EsqGOqRWjkbG9nNaXrSJsn?usp=sharing)
 
+## Notícias
+
+[Gaussian Splatting](https://www.inria.fr/en/creating-stunning-real-time-3d-scenes-breakthrough-3d-gaussian-splatting)
+
 ## Cursos
 
 [IA aplicada a Visão Computacional](https://infoeducacao.com.br/curso-gratuito-de-inteligencia-artificial-aplicada-a-visao-computacional-abre-vagas/)
