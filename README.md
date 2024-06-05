@@ -48,6 +48,8 @@
 
 ## Software
 
+[NeRFStudio](https://docs.nerf.studio/)
+
 [Ultralytics YOLO](https://www.ultralytics.com/yolo)
 
 [DeepSort](https://deci.ai/blog/object-tracking-with-deepsort-and-yolo-nas-practitioners-guide/#:~:text=Deep%20SORT%20is%20a%20state,in%20crowded%20and%20complex%20environments.)
