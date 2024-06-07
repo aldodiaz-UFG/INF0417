@@ -2,7 +2,7 @@
 
 ## Seminário
 
-[GITHUB - Conformação de equipes (DEADLINE 14/06/2024]
+[GITHUB - Conformação de equipes (DEADLINE 14/06/2024)](https://classroom.github.com/a/49lfu3gN)]
 
 [Atividade02 - Brainstorming](https://docs.google.com/presentation/d/1P1b2K8LoPWNTbVJtfFRMl_zJemgKWDB5MN_LnRglpBs/edit?usp=sharing)
 
