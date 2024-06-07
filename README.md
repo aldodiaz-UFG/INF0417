@@ -2,6 +2,8 @@
 
 ## Seminário
 
+[GITHUB - Conformação de equipes (DEADLINE 14/06/2024]
+
 [Atividade02 - Brainstorming](https://docs.google.com/presentation/d/1P1b2K8LoPWNTbVJtfFRMl_zJemgKWDB5MN_LnRglpBs/edit?usp=sharing)
 
 [Atividade01 - Panorama geral](https://docs.google.com/presentation/d/1jvwhnva5YatgqHC6rv-Y3q-LWF2_g_zDt72rBiheZ78/edit#slide=id.p)
