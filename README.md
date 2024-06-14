@@ -8,6 +8,10 @@
 
 [Atividade01 - Panorama geral](https://docs.google.com/presentation/d/1jvwhnva5YatgqHC6rv-Y3q-LWF2_g_zDt72rBiheZ78/edit#slide=id.p)
 
+## Apresentações
+
+[Nabila Silva - Visão Computacional Embarcada](https://docs.google.com/presentation/d/15gJz52NvqUcbh3zzsheXDKIsGcMpYgP0/edit?usp=sharing&ouid=101600025818417336541&rtpof=true&sd=true)
+
 ## Datasets
 
 [Datasets](https://drive.google.com/drive/folders/1DjDC8fV8A5EsqGOqRWjkbG9nNaXrSJsn?usp=sharing)
