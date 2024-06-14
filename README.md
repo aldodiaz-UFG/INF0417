@@ -10,7 +10,7 @@
 
 ## Apresentações
 
-[Nabila Silva - Visão Computacional Embarcada](https://docs.google.com/presentation/d/15gJz52NvqUcbh3zzsheXDKIsGcMpYgP0/edit?usp=sharing&ouid=101600025818417336541&rtpof=true&sd=true)
+[Apresentações](https://drive.google.com/drive/folders/1lhsdAOq1KQV2gFIJr7C6kXdZ1RpZPcra?usp=sharing)
 
 ## Datasets
 
