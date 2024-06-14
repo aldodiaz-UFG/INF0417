@@ -58,6 +58,8 @@
 
 ## Software
 
+[LabelBox](https://labelbox.com/)
+
 [NeRFStudio](https://docs.nerf.studio/)
 
 [Ultralytics YOLO](https://www.ultralytics.com/yolo)
