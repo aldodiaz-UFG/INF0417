@@ -10,6 +10,10 @@
 
 ## Apresentações
 
+[LUCA PLASTER](https://docs.google.com/presentation/d/1iFWvXUuoRv1tmdvd1EkZ4xWVZmds934o2QgqdHZXicM/edit?usp=sharing)
+
+[NABILA SILVA - 14/06](https://docs.google.com/presentation/d/15gJz52NvqUcbh3zzsheXDKIsGcMpYgP0/edit?usp=sharing&ouid=101600025818417336541&rtpof=true&sd=true)
+
 [Apresentações](https://drive.google.com/drive/folders/1lhsdAOq1KQV2gFIJr7C6kXdZ1RpZPcra?usp=sharing)
 
 ## Datasets
