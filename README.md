@@ -62,6 +62,8 @@
 
 ## Software
 
+[Anomalib: a library for image anomaly detection and localization](https://medium.com/@enrico.randellini/anomalib-a-library-for-image-anomaly-detection-and-localization-fb363639104f)
+
 [LabelBox](https://labelbox.com/)
 
 [NeRFStudio](https://docs.nerf.studio/)
